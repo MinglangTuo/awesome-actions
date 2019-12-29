@@ -191,6 +191,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Action to lint Awesome lists](https://github.com/squadcastHQ/awesome-lint-action) - Uses [awesome-lint](https://github.com/sindresorhus/awesome-lint) to lint awesome lists as an Action.
 - [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
+- [Autotagger](https://github.com/ButlerLogic/action-autotag) - Automatically create git tags when the version changes.
 
 ### Testing and Linting
 
