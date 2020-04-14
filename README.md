@@ -121,6 +121,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Generate release notes based on your events](https://github.com/Decathlon/release-notes-generator-action)
 - [Create a GitHub wiki page based on the provided markdown file](https://github.com/Decathlon/wiki-page-creator-action)
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
+- [Automatically generate a new tag when the manifest file (i.e. `package.json`, `Dockerfile`, `RegExp/custom file`) version changes.](https://github.com/butlerlogic/action-autotag)
 
 ### Collection of Actions
 
